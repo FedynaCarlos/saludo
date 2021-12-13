@@ -5,3 +5,4 @@
 console.log(horaActual());*/
 let saludo = "hola";
 console.log(saludo);
+console.log(saludo1);
